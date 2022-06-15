@@ -1,3 +1,4 @@
+https://www.hackerrank.com/challenges/binary-search-tree-1/problem?h_r%5B%5D=next-challenge&h_r%5B%5D=next-challenge&h_r%5B%5D=next-challenge&h_v%5B%5D=zen&h_v%5B%5D=zen&h_v%5B%5D=zen&isFullScreen=true
 SELECT n,
 CASE WHEN p IS NULL THEN 'Root' 
      WHEN n IN (SELECT P FROM BST) THEN 'Inner'
